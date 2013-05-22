@@ -1,0 +1,20 @@
+2013-05-06
+I think LFS  - see http://www.linuxfromscratch.org/lfs/ - or even a filesystem
+are probably out of our reach until we tackle and solve some smaller
+challenges. If we wrote a device driver it would be good if we had interesting
+hardware in the department to write the driver for? Or at least something we
+have in some quantity to be able to test/experiment? I think it would be pretty
+awesome to contribute something to the department that our peers use/is used.
+
+2013-05-22
+I spoke to Zhiyi yesterday and he said he would organise a meeting for some time
+after exams - this pull is a reminder of that.
+
+In terms of direction of the Linux Repo, I'm especially interested in small
+or embedded devices and parallel processing (strictly as a hobby), and AI.
+Perhaps we could write something along those lines?
+
+Other ideas re something for the department could be devices that help save
+power - smart lighting and heating, for example. Or a small monitor which
+indicates which lab you should use (i.e collates streamed labs and labs-in-use)
+although that uses power. Maybe we could do both and have a net result of zero?
